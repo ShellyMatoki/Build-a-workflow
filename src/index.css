@@ -1,0 +1,52 @@
+header{
+  text-align: center;
+  font-size: 24px;
+}
+
+.menu{
+  display: flex;
+  
+  justify-content: center;
+  
+}
+
+.ststus{
+
+  margin-left: 30%;
+}
+
+.statusF{
+  margin-right: 50px;
+}
+
+.flex{
+
+  display: flex;
+  
+  
+}
+
+
+
+
+.reset-button {
+  background-color: red; 
+ 
+  border-radius: 50%; 
+  padding: 30px 20px; 
+  font-size: 30px; 
+  margin-top: 20px;
+  
+}
+
+.centered-container {
+
+  display: flex;
+  justify-content: center;
+  
+}
+
+
+
+
+
